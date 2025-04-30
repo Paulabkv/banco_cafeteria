@@ -24,7 +24,7 @@ Como executar
 git clone https://github.com/Paulabkv/banco_cafeteria.git cd banco_cafeteria
 2.	Abra o arquivo banco_cafeteria.sql no MySQL Workbench (ou cliente equivalente).
 3.	Execute todas as instruções SQL para criar as tabelas e inserir dados.
-4.		Verifique os dados com: SELECT * FROM produtos; SELECT * FROM pedidos; SELECT * FROM itens_pedido;
+4. Verifique os dados com: SELECT * FROM produtos; SELECT * FROM pedidos; SELECT * FROM itens_pedido;
 
 Estrutura criada
 -	Tabelas com chaves primárias e estrangeiras.
@@ -35,5 +35,5 @@ Controle de Versão
 Este projeto utiliza Git para versionamento. O commit inicial inclui:
 refactor(db): adiciona tabela itens_pedido para modelar relação entre pedidos e produtos
 
-https://github.com/Paulabkv/banco_cafeteria
 Desenvolvido por Paula Fernanda Prado da Silva 
+https://github.com/Paulabkv/banco_cafeteria
